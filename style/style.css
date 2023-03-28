@@ -199,17 +199,15 @@ p#topo{
 }
 
 p > a{
-   font-family: var(--fonte-padrao);
-   color: var(--cor5);
-   text-decoration: none;
-   
+    font-family: var(--fonte-padrao);
+    color: var(--cor5);
+    text-decoration: none;
 }
 
 p a:hover{
-   color:var(--cor1);
-   text-decoration: underline;
+    color: var(--cor1);
+    text-decoration: underline;
 }
-
 footer{
     color: white;
     text-align: center;
